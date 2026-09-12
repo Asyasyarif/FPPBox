@@ -1,7 +1,7 @@
 # How FPPBox works
 
 <p align="center">
-  <img src="fppbox_logo.png" alt="FPPBox logo" width="200">
+  <img src="new_product.png" alt="FPPBox device" width="200">
 </p>
 
 FPPBox (Fingerprint Portable Box) is a small device with a fingerprint sensor. Touch it, and your
